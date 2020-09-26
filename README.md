@@ -1,6 +1,4 @@
 # Netty-Simple-UDP-TCP-server-client
-Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.
-
 <p align="center">
     <a href="https://paypal.me/sameernarkhede/250">
         <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal" />
@@ -11,6 +9,10 @@ Netty is a NIO client server framework which enables quick and easy development 
     <img src="https://img.shields.io/github/issues/narkhedesam/Netty-Simple-UDP-TCP-server-client" alt="Netty-Simple-UDP-TCP-server-client issues" />
     <img src="https://img.shields.io/github/issues-pr/narkhedesam/Netty-Simple-UDP-TCP-server-client" alt="Netty-Simple-UDP-TCP-server-client pull-requests" />
 </p>
+
+Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.
+<br/>
+Here, The simple TCP and UDP server/client examples are provided. Feel free to use it.
 <br/><br/>
 
 ## Author 
