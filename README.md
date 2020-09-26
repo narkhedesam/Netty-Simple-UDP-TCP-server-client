@@ -1,5 +1,5 @@
 # Netty-Simple-UDP-TCP-server-client
-Netty Simple UDP/TCP server/client
+Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.
 
 <p align="center">
     <a href="https://paypal.me/sameernarkhede/250">
@@ -23,6 +23,7 @@ Website : https://narkhedesam.github.io/
 
 ![Screenshot](tcp_server.png)
 ![Screenshot](tcp_client.png)
+<br/>
 ![Screenshot](udp_server.png)
 ![Screenshot](udp_client.png)
 

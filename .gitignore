@@ -1,0 +1,29 @@
+netty-tcp/target/
+netty-tcp/pom.xml.tag
+netty-tcp/pom.xml.releaseBackup
+netty-tcp/pom.xml.versionsBackup
+netty-tcp/pom.xml.next
+netty-tcp/release.properties
+netty-tcp/dependency-reduced-pom.xml
+netty-tcp/buildNumber.properties
+netty-tcp/.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+netty-tcp/.mvn/wrapper/maven-wrapper.jar
+netty-tcp/.settings
+netty-tcp/.classpath
+netty-tcp/.project
+
+netty-udp/target/
+netty-udp/pom.xml.tag
+netty-udp/pom.xml.releaseBackup
+netty-udp/pom.xml.versionsBackup
+netty-udp/pom.xml.next
+netty-udp/release.properties
+netty-udp/dependency-reduced-pom.xml
+netty-udp/buildNumber.properties
+netty-udp/.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+netty-udp/.mvn/wrapper/maven-wrapper.jar
+netty-udp/.settings
+netty-udp/.classpath
+netty-udp/.project
